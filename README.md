@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-My name is Vegard and I'm a software architect, developer and techie. I am currently working for TietoEVRY on our new credit card ledger.
+My name is Vegard and I'm a software architect, developer and techie. I am currently working for Knowit and NAV IT.
 
 ## 🔧 Technologies & Tools
 
